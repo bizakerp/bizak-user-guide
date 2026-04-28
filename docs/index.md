@@ -73,10 +73,3 @@ It also helps an experienced user find a rule, field, or report quickly.
 5. Inventory and Finance
 6. Reports
 7. Admin and help pages
-
-## How this guide is written
-
-- Short sentences.
-- Same words as the app where possible.
-- Clear business effect after save.
-- No guesses when the code does not confirm behavior.
