@@ -131,6 +131,14 @@ The vendor credit DTO includes:
 | `details` | Item details |
 | `account_details` | Account details |
 
+## Detailed pages
+
+- [Supplier Quotation](procurement/supplier-quotation.md)
+- [Purchase Order](procurement/purchase-order.md)
+- [Item Receipt](procurement/item-receipt.md)
+- [Enter Bill](procurement/enter-bill.md)
+- [Vendor Credit](procurement/vendor-credit.md)
+
 ## Example procurement flow
 
 1. Create a supplier quotation if needed.

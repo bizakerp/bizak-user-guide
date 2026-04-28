@@ -75,6 +75,11 @@ The customer refund DTO includes:
 The DTO enforces that the amount is greater than zero.
 This is a backend model reference, not a current top-level payment route in the app nav.
 
+## Detailed pages
+
+- [Customer Receipt](payment/customer-receipt.md)
+- [Vendor Payment](payment/vendor-payment.md)
+
 ## Why it matters
 
 Payments update ledger balances and affect outstanding amounts, cash, and bank reconciliation.

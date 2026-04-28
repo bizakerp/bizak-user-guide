@@ -116,6 +116,16 @@ Bizak also includes:
 
 These are used when a customer needs a return, refund adjustment, or note against an earlier invoice.
 
+## Detailed pages
+
+- [Opportunity](sales/opportunity.md)
+- [Estimate](sales/estimate.md)
+- [Order](sales/order.md)
+- [Invoice](sales/invoice.md)
+- [Customer Return](sales/customer-return.md)
+- [Credit Memo](sales/credit-memo.md)
+- [Debit and Credit Note](sales/debit-credit-note.md)
+
 ## Example sales flow
 
 1. Create an opportunity.

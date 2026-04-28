@@ -63,6 +63,12 @@ The inventory adjustment DTO includes:
 | `adjustment_details` | Item adjustment lines |
 | `inventory_detail_maps` | Item-level stock detail mapping |
 
+## Detailed pages
+
+- [Transfer Order](inventory/transfer-order.md)
+- [Reference Fulfillment](inventory/reference-fulfill.md)
+- [Inventory Adjustment](inventory/inventory-adjustment.md)
+
 ## Batch and serial tracking
 
 The item model supports both batch and serial flags.

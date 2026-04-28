@@ -37,6 +37,12 @@ The transfer-fund filter shows that the module can search by:
 | `to_account_names` | Destination accounts |
 | `approval_statuses` | Approval states |
 
+## Detailed pages
+
+- [Check](bank/check.md)
+- [Make Deposit](bank/make-deposit.md)
+- [Transfer Fund](bank/transfer-fund.md)
+
 ## Example
 
 A user can transfer money from one bank account to another and then reconcile the movement later in accounting reports.

@@ -32,6 +32,14 @@ The journal entry DTO includes:
 
 The code also checks that debit and credit totals match before the entry is valid.
 
+## Detailed pages
+
+- [Journal Entry](finance/journal.md)
+- [Opening Balance](finance/opening-balance.md)
+- [Expense Report](finance/expense-report.md)
+- [Budget](finance/budget.md)
+- [Bank Reconcile](finance/bank-reconcile.md)
+
 ## Opening balance
 
 The opening balance DTO is simple:

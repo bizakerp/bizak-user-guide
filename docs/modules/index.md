@@ -18,6 +18,16 @@ Bizak modules are grouped by business function.
 - Survey
 - Notifications
 
+## Start here
+
+If you want the main workflows first, open these pages:
+
+- [Sales](sales.md)
+- [Procurement](procurement.md)
+- [Inventory](inventory.md)
+- [Finance](finance.md)
+- [POS](pos.md)
+
 ## How to use this section
 
 Each module page will explain:

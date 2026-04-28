@@ -67,12 +67,43 @@ nav:
       - Master Data: modules/master-data.md
       - Shared Transaction Tools: modules/transaction-shared.md
       - Transactions: modules/transactions.md
-      - Sales: modules/sales.md
-      - Procurement: modules/procurement.md
-      - Inventory: modules/inventory.md
-      - Finance: modules/finance.md
-      - Payment: modules/payment.md
-      - Bank: modules/bank.md
+      - Sales:
+          - Sales Overview: modules/sales.md
+          - Opportunity: modules/sales/opportunity.md
+          - Estimate: modules/sales/estimate.md
+          - Order: modules/sales/order.md
+          - Invoice: modules/sales/invoice.md
+          - Customer Return: modules/sales/customer-return.md
+          - Credit Memo: modules/sales/credit-memo.md
+          - Debit and Credit Note: modules/sales/debit-credit-note.md
+      - Procurement:
+          - Procurement Overview: modules/procurement.md
+          - Supplier Quotation: modules/procurement/supplier-quotation.md
+          - Purchase Order: modules/procurement/purchase-order.md
+          - Item Receipt: modules/procurement/item-receipt.md
+          - Enter Bill: modules/procurement/enter-bill.md
+          - Vendor Credit: modules/procurement/vendor-credit.md
+      - Inventory:
+          - Inventory Overview: modules/inventory.md
+          - Transfer Order: modules/inventory/transfer-order.md
+          - Reference Fulfillment: modules/inventory/reference-fulfill.md
+          - Inventory Adjustment: modules/inventory/inventory-adjustment.md
+      - Finance:
+          - Finance Overview: modules/finance.md
+          - Journal Entry: modules/finance/journal.md
+          - Opening Balance: modules/finance/opening-balance.md
+          - Expense Report: modules/finance/expense-report.md
+          - Budget: modules/finance/budget.md
+          - Bank Reconcile: modules/finance/bank-reconcile.md
+      - Payment:
+          - Payment Overview: modules/payment.md
+          - Customer Receipt: modules/payment/customer-receipt.md
+          - Vendor Payment: modules/payment/vendor-payment.md
+      - Bank:
+          - Bank Overview: modules/bank.md
+          - Check: modules/bank/check.md
+          - Make Deposit: modules/bank/make-deposit.md
+          - Transfer Fund: modules/bank/transfer-fund.md
       - POS: modules/pos.md
       - CRM: modules/crm.md
       - Field Operations: modules/sfm.md
