@@ -3,6 +3,8 @@
 This page covers POS setup.
 Use it before the first sale in a terminal or store.
 
+![POS session lock illustration](../../assets/images/workflows/pos/counter-lock.png)
+
 ## What the screen does
 
 - It loads the default customer.
@@ -15,8 +17,11 @@ Use it before the first sale in a terminal or store.
 If all required defaults exist, the app can go straight to the POS screen.
 If no session is open, it sends the user to session start first.
 
+!!! tip "Why this matters"
+    POS setup reduces repeat work.
+    It also keeps the cashier on the correct counter, warehouse, and payment path.
+
 ## Example
 
 A store manager sets the defaults once for a location.
 Cashiers then use the same POS setup without repeating the same choices every time.
-

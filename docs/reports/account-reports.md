@@ -2,6 +2,14 @@
 
 Account reports show the financial result of posted transactions.
 
+## Visual guide
+
+![Customer ageing summary](../assets/images/workflows/reports/account-receivable.png)
+
+!!! note "Read ageing reports carefully"
+    These screens show overdue balances by time bucket.
+    They help the team see what is due now and what is overdue.
+
 ## Common reports
 
 - trial balance

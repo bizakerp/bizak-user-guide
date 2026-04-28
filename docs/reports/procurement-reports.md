@@ -2,6 +2,14 @@
 
 Procurement reports support purchasing control and supplier monitoring.
 
+## Visual guide
+
+![Item receipt list](../assets/images/workflows/procurement/receive-order-list.png)
+
+!!! note "Use it for purchase follow-up"
+    These pages help buyers review what was ordered, received, and still owed.
+    They are useful during vendor review and period close.
+
 ## Common examples
 
 - purchase order history

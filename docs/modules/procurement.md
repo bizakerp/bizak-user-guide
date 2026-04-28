@@ -2,6 +2,21 @@
 
 The Procurement module supports supplier and purchasing workflows.
 
+## Visual guide
+
+![Purchase order screen](../assets/images/workflows/procurement/purchase-order-create.png)
+
+!!! note "Purchase order layout"
+    The top section holds the vendor and classification fields.
+    The summary panel appears on the right.
+    The item grid sits below the tabs.
+
+![Vendor bill screen](../assets/images/workflows/procurement/enter-bill-create.png)
+
+!!! tip "Bill entry"
+    Enter bill follows the same pattern.
+    Keep the vendor, date, and receipt reference aligned with the purchase order.
+
 ## Main routes in the app
 
 | Route | Purpose |

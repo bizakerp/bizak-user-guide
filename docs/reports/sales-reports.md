@@ -2,6 +2,14 @@
 
 Sales reports help teams understand revenue and customer activity.
 
+## Visual guide
+
+![Sales invoice list](../assets/images/workflows/reports/invoice-list.png)
+
+!!! note "Sales lists and reports"
+    This kind of screen is useful when you want a quick list first.
+    Use the detail report when you need a drilldown.
+
 ## Common examples
 
 - invoice reports

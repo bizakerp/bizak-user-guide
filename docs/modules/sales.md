@@ -2,6 +2,15 @@
 
 The Sales module supports customer-facing commercial workflows.
 
+## Visual guide
+
+![Sales order screen](../assets/images/workflows/sales/sales-order-create.png)
+
+!!! note "Read the screen from top to bottom"
+    The header holds the customer, dates, and approval fields.
+    The item entry area sits below the header.
+    Save happens from the top right.
+
 ## Main routes in the app
 
 | Route | Purpose |

@@ -2,6 +2,15 @@
 
 The POS module supports point-of-sale operations for retail or counter-based selling.
 
+## Visual guide
+
+![POS counter setup illustration](../assets/images/workflows/pos/counter-bg.png)
+
+!!! note "Start with setup"
+    POS is centered on a counter and a live session.
+    Set the defaults first.
+    Then open a session before you sell.
+
 ## Main routes in the app
 
 | Route | Purpose |

@@ -2,6 +2,20 @@
 
 The Payment module handles customer and vendor money movement.
 
+## Visual guide
+
+![Customer receipt screen](../assets/images/workflows/payment/customer-payment.png)
+
+!!! note "Use receipts for customer money in"
+    Customer receipt is the screen to use when a customer pays an invoice.
+    The grid below shows which invoices get the payment.
+
+![Vendor payment screen](../assets/images/workflows/payment/vendor-payment-create.png)
+
+!!! tip "Use vendor payment for money out"
+    Vendor payment records what the business pays to suppliers.
+    Keep the bill allocation and bank details aligned with the payment.
+
 ## Main routes in the app
 
 | Route | Purpose |

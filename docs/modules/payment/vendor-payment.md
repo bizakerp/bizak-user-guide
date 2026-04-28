@@ -3,6 +3,12 @@
 This page covers the vendor payment flow.
 Use it when Bizak pays a supplier.
 
+![Vendor payment screen](../../assets/images/workflows/payment/vendor-payment-create.png)
+
+!!! note "Keep the bill trail clear"
+    Link the payment to the vendor and the right bill lines.
+    That makes reconciliation easier later.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -26,4 +32,3 @@ Use it when Bizak pays a supplier.
 
 The accounts team pays a vendor after a bill is approved.
 The payment records the method, the amount, and the related bill allocations.
-

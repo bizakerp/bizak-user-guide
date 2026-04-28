@@ -2,6 +2,15 @@
 
 Bizak reporting is organized by subject area.
 
+## Visual guide
+
+![Inventory report screen](../assets/images/workflows/reports/inventory-report.png)
+
+!!! note "Common report pattern"
+    Most report pages start with filters at the top.
+    The table or summary appears below the filters.
+    Detail pages usually add drilldown rows.
+
 ## Report families
 
 - account reports

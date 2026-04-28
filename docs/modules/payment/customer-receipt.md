@@ -3,6 +3,12 @@
 This page covers the customer receipt flow.
 Use it when the customer pays an open invoice.
 
+![Customer receipt screen](../../assets/images/workflows/payment/customer-payment.png)
+
+!!! note "Receipt first, then allocation"
+    Confirm the customer and payment date first.
+    Then allocate the payment to the right invoices.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -22,4 +28,3 @@ The receipt screen also uses payment mode, deposit account, total amount receive
 A customer pays two invoices at once.
 The receipt allocates the payment across the invoices.
 Any extra amount stays unallocated if needed.
-

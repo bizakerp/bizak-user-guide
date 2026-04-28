@@ -2,6 +2,14 @@
 
 Inventory reports help users track stock quantity and valuation.
 
+## Visual guide
+
+![Inventory report screen](../assets/images/workflows/reports/inventory-report.png)
+
+!!! note "Stock reports are filter first"
+    Start with the item, location, or date filter.
+    Then review quantity, movement, and valuation in the table below.
+
 ## Common examples
 
 - inventory valuation
