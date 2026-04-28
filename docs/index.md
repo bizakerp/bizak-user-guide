@@ -11,6 +11,12 @@ This portal is designed to help users understand:
 - what happens after save or submit
 - how each workflow connects to accounting and reporting
 
+## What this portal is for
+
+This portal is the main learning site for Bizak users.
+It should help a new user start safely.
+It should also help an experienced user find a rule or field quickly.
+
 ## How to use this guide
 
 Use the left navigation to move by topic:
@@ -22,7 +28,7 @@ Use the left navigation to move by topic:
 - **Admin** for roles, workflow, file cabinet, and customization
 - **Help** for FAQs, glossary terms, and troubleshooting
 
-## What this guide will include
+## What this guide includes
 
 - task-based walkthroughs
 - field explanations
@@ -40,6 +46,13 @@ Use the left navigation to move by topic:
 4. Sales and Procurement
 5. Inventory and Finance
 6. Reports
+7. Admin and help pages
+
+## Writing style
+
+This guide uses short sentences.
+It uses the same words that appear in the application where possible.
+It explains the business effect of each save action.
+It avoids guessing when the code does not confirm behavior.
 
 > This portal is intentionally structured around workflows, not just menu labels. That makes it easier for non-technical users to learn Bizak in the same way they actually use it.
-

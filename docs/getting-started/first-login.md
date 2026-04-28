@@ -15,8 +15,13 @@ This page will later document the exact first-login experience for new Bizak use
 - Access is role-based.
 - Different organizations can expose different permissions.
 - The first login can lead to a role selection screen if the account belongs to multiple tenants or organizations.
+- Password and security settings come from setup and admin configuration.
 
 ## Example
 
 If a user belongs to both finance and sales roles, Bizak can direct them to a role chooser first, then open the dashboard for the selected role.
 
+## User tips
+
+Use the email and password that were registered for the account.
+If you do not see the expected module, check your role access first.

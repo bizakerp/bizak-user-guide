@@ -19,7 +19,12 @@ Account setup prepares the financial framework Bizak uses for posting and report
 - opening balances
 - expense categories
 
-## Why it matters
+## Why this matters
 
-If account setup is incomplete, users may be blocked from posting transactions or generating accurate financial reports.
+Most transaction screens rely on account setup.
+If terms, ledgers, tax setup, or opening balances are missing, posting can fail or reporting can look incomplete.
 
+## Example
+
+Before a vendor bill can be posted, the system needs a valid ledger setup.
+Before reports can balance, opening balances must be in place.

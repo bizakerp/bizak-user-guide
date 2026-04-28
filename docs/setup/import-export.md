@@ -17,13 +17,22 @@ Bizak supports bulk import and data export to make setup and migration faster.
 - bulk correction
 - new branch setup
 
-## What should be documented here
+## What to document for import
 
-The final guide will include:
+The final guide should explain:
 
-- accepted file formats
 - required columns
-- sample templates
-- validation errors
-- import result review
+- column order
+- mandatory fields
+- file validation
+- duplicate detection
+- what happens when a row fails
 
+## What to document for export
+
+The guide should also explain:
+
+- how to filter the data first
+- which fields are exported
+- whether the export is detail or summary
+- how to use the exported file for review or migration

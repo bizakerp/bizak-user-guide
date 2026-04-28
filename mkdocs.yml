@@ -65,6 +65,7 @@ nav:
   - Modules:
       - Module Overview: modules/index.md
       - Master Data: modules/master-data.md
+      - Shared Transaction Tools: modules/transaction-shared.md
       - Transactions: modules/transactions.md
       - Sales: modules/sales.md
       - Procurement: modules/procurement.md

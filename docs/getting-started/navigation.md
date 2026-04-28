@@ -24,6 +24,22 @@ Bizak is organized around major business modules.
 - **Reports** show the result of that activity.
 - **Setup** controls company behavior, defaults, and permissions.
 
+## Main routes in the current app
+
+| Area | Example path |
+| --- | --- |
+| Dashboard | `/app/main/dashboard` |
+| Sales | `/app/main/sales/*` |
+| Procurement | `/app/main/procurement/*` |
+| Inventory | `/app/main/inventory/*` |
+| Finance | `/app/main/finance/*` |
+| Payment | `/app/main/payment/*` |
+| Bank | `/app/main/bank/*` |
+| POS | `/app/main/pos/*` |
+| Reports | `/app/main/report/*` |
+| CRM | `/app/main/crm/*` |
+| Field operations | `/app/main/sfm/*` |
+
 ## Recommended user pattern
 
 1. Start from the dashboard
@@ -32,3 +48,8 @@ Bizak is organized around major business modules.
 4. Save the transaction
 5. Confirm the report or posting result
 
+## Reading the screen
+
+List screens show existing records.
+Create and update screens collect data.
+Detail screens show what was saved and what related records were created.

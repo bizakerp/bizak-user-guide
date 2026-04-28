@@ -29,3 +29,21 @@ Each module page will explain:
 - side effects after save
 - report connections
 - cross-module dependencies
+
+## Current route families
+
+The app currently exposes these main route groups:
+
+- `sales`
+- `procurement`
+- `inventory`
+- `finance`
+- `payment`
+- `bank`
+- `pos`
+- `report`
+- `crm`
+- `sfm`
+- `survey`
+- `notification`
+- `transaction-shared`
