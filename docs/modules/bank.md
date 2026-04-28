@@ -2,6 +2,13 @@
 
 The Bank module supports banking transactions and cash movement.
 
+## Before you start
+
+- Confirm the bank accounts are set up.
+- Confirm the payment or deposit source is correct.
+- Confirm the user can access bank postings.
+- Confirm the company currency and ledger structure are ready.
+
 ## Main routes in the app
 
 | Route | Purpose |
@@ -9,6 +16,15 @@ The Bank module supports banking transactions and cash movement.
 | `check` | Write a check |
 | `make-deposit` | Record a deposit |
 | `transfer-fund` | Move money between accounts |
+
+## Related pages
+
+- [Payment](payment.md)
+- [Check](bank/check.md)
+- [Make Deposit](bank/make-deposit.md)
+- [Transfer Fund](bank/transfer-fund.md)
+- [Bank Reconcile](finance/bank-reconcile.md)
+- [Account Reports](../reports/account-reports.md)
 
 ## Deposit records
 

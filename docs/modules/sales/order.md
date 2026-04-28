@@ -3,6 +3,13 @@
 This page covers the customer order flow.
 Use it when the customer confirms the sale.
 
+## Before you start
+
+- Confirm the customer exists.
+- Confirm the estimate or sales quote is ready if you use one.
+- Confirm the items, prices, and taxes are set up.
+- Confirm the user can create sales orders.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -33,9 +40,15 @@ Use it when the customer confirms the sale.
 
 The order also stores item details, notes, files, tasks, events, messages, and relationships.
 
+## Related pages
+
+- [Sales Overview](../sales.md)
+- [Estimate](estimate.md)
+- [Invoice](invoice.md)
+- [Customer Receipt](../../payment/customer-receipt.md)
+
 ## Example
 
 A customer approves a quote for office furniture.
 Bizak records the order date, expected delivery date, and the booking amount.
 The team then moves the order to fulfillment and invoice.
-

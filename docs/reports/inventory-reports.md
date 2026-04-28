@@ -2,6 +2,13 @@
 
 Inventory reports help users track stock quantity and valuation.
 
+## Before you start
+
+- Confirm the stock movement or adjustment is posted.
+- Confirm the item and location filters are correct.
+- Confirm the user has access to inventory reporting.
+- Confirm the valuation rules are set up.
+
 ## Visual guide
 
 ![Inventory report screen](../assets/images/workflows/reports/inventory-report.png)
@@ -56,3 +63,10 @@ Inventory reports help users track stock quantity and valuation.
 Some routes show a summary view.
 Some routes show a detail view.
 That gives the user both fast review and drilldown options.
+
+## Related pages
+
+- [Reports Overview](index.md)
+- [Inventory Overview](../modules/inventory.md)
+- [Transfer Order](../modules/inventory/transfer-order.md)
+- [Inventory Adjustment](../modules/inventory/inventory-adjustment.md)

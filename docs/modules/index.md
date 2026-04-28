@@ -40,6 +40,18 @@ If you want the main workflows first, open these pages:
 
 </div>
 
+## Before you choose a module
+
+- Decide which business team owns the workflow.
+- Confirm the required setup pages are ready.
+- Use the guided journeys when you want a role-based path.
+
+## Related pages
+
+- [Guided Journeys](../getting-started/journeys/index.md)
+- [Master Data](master-data.md)
+- [Transactions](transactions.md)
+
 ## Module families
 
 - Master data

@@ -2,12 +2,25 @@
 
 The administration section covers system ownership, access control, workflow oversight, and support tools.
 
+## Before you start
+
+- Confirm the company and account structure is ready.
+- Confirm you have admin permissions.
+- Confirm the user and role model is clear.
+
 ## What this section covers
 
 - users and roles
 - workflow history and audit trails
 - file cabinet
 - customization
+
+## Related pages
+
+- [Users and Roles](users-and-roles.md)
+- [Workflow and Audit](workflow-audit.md)
+- [File Cabinet](file-cabinet.md)
+- [Customization](customization.md)
 
 ## Open the admin pages
 

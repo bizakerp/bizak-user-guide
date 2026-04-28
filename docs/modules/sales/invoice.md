@@ -3,6 +3,13 @@
 This page covers the sales invoice flow.
 Use it when the sale is ready to post and collect.
 
+## Before you start
+
+- Confirm the customer and order are ready.
+- Confirm the items and prices are correct.
+- Confirm the user can post sales invoices.
+- Confirm the payment and tax setup is ready.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -52,9 +59,15 @@ Use it when the sale is ready to post and collect.
 
 The invoice details include item, unit, quantity, rate, discount, tax, and amount.
 
+## Related pages
+
+- [Sales Overview](../sales.md)
+- [Order](order.md)
+- [Customer Receipt](../../payment/customer-receipt.md)
+- [Sales Reports](../../reports/sales-reports.md)
+
 ## Example
 
 A sales rep invoices a confirmed order.
 The invoice shows the customer, the due date, the discount, and the line items.
 If the sale came from POS, the invoice also carries the counter and session data.
-

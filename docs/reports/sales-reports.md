@@ -2,6 +2,13 @@
 
 Sales reports help teams understand revenue and customer activity.
 
+## Before you start
+
+- Confirm the sales documents are posted.
+- Confirm the date range is correct.
+- Confirm the user has access to the report family.
+- Confirm customer or sales rep filters if they apply.
+
 ## Visual guide
 
 ![Sales invoice list](../assets/images/workflows/reports/invoice-list.png)
@@ -43,3 +50,10 @@ Sales reports help teams understand revenue and customer activity.
 
 Use the summary report when you want a fast view.
 Use the detail report when you need a drilldown for audit or follow-up.
+
+## Related pages
+
+- [Reports Overview](index.md)
+- [Sales Overview](../modules/sales.md)
+- [Invoice](../modules/sales/invoice.md)
+- [Customer Receipt](../modules/payment/customer-receipt.md)

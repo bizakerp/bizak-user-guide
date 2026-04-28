@@ -2,6 +2,13 @@
 
 The Payment module handles customer and vendor money movement.
 
+## Before you start
+
+- Confirm the related invoice or bill exists.
+- Confirm the deposit or payment account is correct.
+- Confirm the ledger setup is complete.
+- Confirm the user can post payments.
+
 ## Visual guide
 
 ![Customer receipt screen](../assets/images/workflows/payment/customer-payment.png)
@@ -22,6 +29,15 @@ The Payment module handles customer and vendor money movement.
 | --- | --- |
 | `customer-receipt` | Receive payment from a customer |
 | `vendor-payment` | Pay a vendor |
+
+## Related pages
+
+- [Sales Invoice](sales/invoice.md)
+- [Enter Bill](procurement/enter-bill.md)
+- [Customer Receipt](payment/customer-receipt.md)
+- [Vendor Payment](payment/vendor-payment.md)
+- [Bank](bank.md)
+- [Account Reports](../reports/account-reports.md)
 
 ## Note on refunds
 

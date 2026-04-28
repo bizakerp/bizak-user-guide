@@ -2,6 +2,12 @@
 
 Field operations support route planning, visit tracking, and sales activity outside the office.
 
+## Before you start
+
+- Confirm employees and sales reps are set up.
+- Confirm customers and route data exist.
+- Confirm the field role has location access if needed.
+
 ## Main routes in the app
 
 | Route | Purpose |
@@ -14,6 +20,14 @@ Field operations support route planning, visit tracking, and sales activity outs
 | `sales-man-location` | Track sales rep location |
 | `party-route-map` | Show party route mapping |
 | `salesman-route-map` | Show sales rep route mapping |
+
+## Related pages
+
+- [Route Plan](sfm/route-plan.md)
+- [Daily Visit](sfm/daily-visit.md)
+- [Sales Person Location](sfm/sales-person-location.md)
+- [Customer Visit Summary](sfm/customer-visit-summary.md)
+- [Field Reports](sfm/report.md)
 
 ## Detailed pages
 

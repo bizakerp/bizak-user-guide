@@ -11,6 +11,13 @@ Bizak reporting is organized by subject area.
     The table or summary appears below the filters.
     Detail pages usually add drilldown rows.
 
+## Before you start
+
+- Confirm the related setup and posting data exists.
+- Confirm the date range is correct.
+- Confirm the user has access to the report family.
+- Confirm filters like branch, entity, or location are ready.
+
 ## Report families
 
 <div class="grid cards landing-grid" markdown>
@@ -58,6 +65,15 @@ Bizak reporting is organized by subject area.
     [Open page](other-reports.md)
 
 </div>
+
+## Related pages
+
+- [Account Reports](account-reports.md)
+- [Sales Reports](sales-reports.md)
+- [Inventory Reports](inventory-reports.md)
+- [Procurement Reports](procurement-reports.md)
+- [Dynamic Reports](dynamic.md)
+- [IRD Reports](ird.md)
 
 ## How users should read reports
 

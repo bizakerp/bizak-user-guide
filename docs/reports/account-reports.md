@@ -2,6 +2,13 @@
 
 Account reports show the financial result of posted transactions.
 
+## Before you start
+
+- Confirm the accounting setup is complete.
+- Confirm the date range is correct.
+- Confirm the user has access to the report family.
+- Confirm posting has already happened for the transactions you want to review.
+
 ## Visual guide
 
 ![Customer ageing summary](../assets/images/workflows/reports/account-receivable.png)
@@ -67,3 +74,10 @@ Account reports show the financial result of posted transactions.
 Some reports have alternate views.
 For example, trial balance has tree and expanded tree screens.
 Balance sheet and profit and loss also use parameterized routes in the app.
+
+## Related pages
+
+- [Reports Overview](index.md)
+- [Finance Overview](../modules/finance.md)
+- [Journal Entry](../modules/finance/journal.md)
+- [Bank Reconcile](../modules/finance/bank-reconcile.md)

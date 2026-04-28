@@ -3,6 +3,13 @@
 This page covers the inventory adjustment flow.
 Use it when physical stock and system stock do not match.
 
+## Before you start
+
+- Confirm the item and location are correct.
+- Confirm the adjustment reason is clear.
+- Confirm the user can post inventory changes.
+- Confirm the linked account is ready.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -29,3 +36,9 @@ A stock count finds missing items.
 The team records an adjustment so the ledger and stock report stay correct.
 That keeps inventory reports aligned with reality.
 
+## Related pages
+
+- [Inventory Overview](../inventory.md)
+- [Transfer Order](transfer-order.md)
+- [Reference Fulfillment](reference-fulfill.md)
+- [Inventory Reports](../../reports/inventory-reports.md)

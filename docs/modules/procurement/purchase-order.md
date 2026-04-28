@@ -3,6 +3,13 @@
 This page covers the purchase order flow.
 Use it when the company is ready to buy from a vendor.
 
+## Before you start
+
+- Confirm the vendor exists.
+- Confirm the items, taxes, and units are set up.
+- Confirm the buyer role has access.
+- Confirm the approval path is clear if approval is required.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -42,9 +49,16 @@ Use it when the company is ready to buy from a vendor.
 | `user_note_details` | Notes |
 | `relationship_details` | Related contacts |
 
+## Related pages
+
+- [Procurement Overview](../procurement.md)
+- [Supplier Quotation](supplier-quotation.md)
+- [Item Receipt](item-receipt.md)
+- [Enter Bill](enter-bill.md)
+- [Vendor Payment](../../payment/vendor-payment.md)
+
 ## Example
 
 A procurement officer places an order for raw materials.
 The order stores the vendor, the terms, and the expected receipt date.
 The team then uses it to receive items and match the bill later.
-

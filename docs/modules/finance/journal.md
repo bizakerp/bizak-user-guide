@@ -3,6 +3,13 @@
 This page covers the journal entry flow.
 Use it when you need to post a manual accounting entry.
 
+## Before you start
+
+- Confirm the ledgers are set up.
+- Confirm the user has finance posting access.
+- Confirm the date and currency are correct.
+- Confirm the journal lines balance.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -29,9 +36,14 @@ Use it when you need to post a manual accounting entry.
 
 The code validates that debit and credit totals match before the entry is valid.
 
+## Related pages
+
+- [Finance Overview](../finance.md)
+- [Opening Balance](opening-balance.md)
+- [Account Reports](../../reports/account-reports.md)
+
 ## Example
 
 The finance team posts rent expense at month end.
 The journal debits rent expense and credits the bank account.
 The entry keeps the books balanced.
-

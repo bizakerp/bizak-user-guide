@@ -2,6 +2,13 @@
 
 The Finance module covers accounting entries and financial controls.
 
+## Before you start
+
+- Confirm ledgers and ledger groups are ready.
+- Confirm fiscal year and posting periods are set.
+- Confirm users can post or review finance records.
+- Confirm company setup for currency, department, and location is complete.
+
 ## Main routes in the app
 
 | Route | Purpose |
@@ -11,6 +18,16 @@ The Finance module covers accounting entries and financial controls.
 | `expenses/report` | Enter expense reports |
 | `budget` | Manage budgets |
 | `bank-reconcile` | Reconcile bank activity |
+
+## Related pages
+
+- [Account Setup](../setup/account-setup.md)
+- [Journal Entry](finance/journal.md)
+- [Opening Balance](finance/opening-balance.md)
+- [Expense Report](finance/expense-report.md)
+- [Budget](finance/budget.md)
+- [Bank Reconcile](finance/bank-reconcile.md)
+- [Account Reports](../reports/account-reports.md)
 
 ## Journal entry
 

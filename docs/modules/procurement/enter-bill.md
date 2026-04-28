@@ -3,6 +3,13 @@
 This page covers the vendor bill flow.
 Use it when the vendor invoice arrives.
 
+## Before you start
+
+- Confirm the purchase order or receipt is ready.
+- Confirm the vendor and bill date are correct.
+- Confirm the user can post procurement bills.
+- Confirm the payment hold and approval settings if they apply.
+
 ## What the screen tracks
 
 | Field | Meaning |
@@ -57,3 +64,10 @@ A vendor invoice arrives after goods are received.
 The accounts team enters the bill, links the receipt, and sets the due date.
 If the bill needs review, the approval status keeps the process visible.
 
+## Related pages
+
+- [Procurement Overview](../procurement.md)
+- [Purchase Order](purchase-order.md)
+- [Item Receipt](item-receipt.md)
+- [Vendor Payment](../../payment/vendor-payment.md)
+- [Procurement Reports](../../reports/procurement-reports.md)

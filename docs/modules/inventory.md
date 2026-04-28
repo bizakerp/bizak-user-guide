@@ -2,6 +2,13 @@
 
 The Inventory module manages stock movement and inventory accuracy.
 
+## Before you start
+
+- Confirm items and units are set up.
+- Confirm locations exist.
+- Confirm the user has inventory access.
+- Confirm the stock rules for batch or serial tracking are clear.
+
 ## Main routes in the app
 
 | Route | Purpose |
@@ -13,6 +20,14 @@ The Inventory module manages stock movement and inventory accuracy.
 | `serial-number` | Manage serial data |
 | `expiry-dashboard` | View expiring items |
 | `expiry-report` | Review expiry data |
+
+## Related pages
+
+- [Master Data](master-data.md)
+- [Transfer Order](inventory/transfer-order.md)
+- [Reference Fulfillment](inventory/reference-fulfill.md)
+- [Inventory Adjustment](inventory/inventory-adjustment.md)
+- [Inventory Reports](../reports/inventory-reports.md)
 
 ## Transfer order
 

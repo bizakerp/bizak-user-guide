@@ -11,6 +11,13 @@ The POS module supports point-of-sale operations for retail or counter-based sel
     Set the defaults first.
     Then open a session before you sell.
 
+## Before you start
+
+- Confirm the POS setup exists.
+- Confirm the counter or grid screen is configured.
+- Confirm the default customer and payment method are ready.
+- Confirm the user can open sessions and shifts.
+
 ## Main routes in the app
 
 | Route | Purpose |
@@ -33,6 +40,16 @@ The POS module supports point-of-sale operations for retail or counter-based sel
 | `modifier/new` | Create a modifier |
 | `loyalty-point` | Configure loyalty points |
 | `loyalty-reward` | Manage rewards |
+
+## Related pages
+
+- [POS Setup](pos/setup.md)
+- [POS System](pos/system.md)
+- [Session](pos/session.md)
+- [Shift](pos/shift.md)
+- [Payment Screen](pos/payment.md)
+- [Order Type](pos/order-type.md)
+- [Counter](pos/counter.md)
 
 ## Detailed pages
 

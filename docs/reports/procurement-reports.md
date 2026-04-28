@@ -2,6 +2,13 @@
 
 Procurement reports support purchasing control and supplier monitoring.
 
+## Before you start
+
+- Confirm the purchase order or bill is posted.
+- Confirm the vendor filter is correct.
+- Confirm the date range is correct.
+- Confirm the user has access to procurement reports.
+
 ## Visual guide
 
 ![Item receipt list](../assets/images/workflows/procurement/receive-order-list.png)
@@ -34,3 +41,10 @@ Procurement reports support purchasing control and supplier monitoring.
 ## Notes
 
 Use the detail pages when a buyer or accountant needs the line-level trail.
+
+## Related pages
+
+- [Reports Overview](index.md)
+- [Procurement Overview](../modules/procurement.md)
+- [Purchase Order](../modules/procurement/purchase-order.md)
+- [Enter Bill](../modules/procurement/enter-bill.md)

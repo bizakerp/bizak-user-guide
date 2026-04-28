@@ -17,6 +17,13 @@ The Procurement module supports supplier and purchasing workflows.
     Enter bill follows the same pattern.
     Keep the vendor, date, and receipt reference aligned with the purchase order.
 
+## Before you start
+
+- Confirm the vendor record exists.
+- Confirm items, units, and taxes are ready.
+- Confirm the buyer or procurement role has access.
+- Confirm the company setup for location, department, and currency.
+
 ## Main routes in the app
 
 | Route | Purpose |
@@ -25,6 +32,16 @@ The Procurement module supports supplier and purchasing workflows.
 | `purchase` | Create and manage purchase orders |
 | `enterbill` | Enter vendor bills |
 | `vendor-credit` | Record vendor credit notes |
+
+## Related pages
+
+- [Master Data](master-data.md)
+- [Supplier Quotation](procurement/supplier-quotation.md)
+- [Purchase Order](procurement/purchase-order.md)
+- [Item Receipt](procurement/item-receipt.md)
+- [Enter Bill](procurement/enter-bill.md)
+- [Vendor Payment](payment/vendor-payment.md)
+- [Procurement Reports](../reports/procurement-reports.md)
 
 ## Supplier quotation
 

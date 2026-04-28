@@ -11,6 +11,13 @@ The Sales module supports customer-facing commercial workflows.
     The item entry area sits below the header.
     Save happens from the top right.
 
+## Before you start
+
+- Confirm the customer record exists.
+- Confirm items, prices, and units are ready.
+- Confirm the sales role can create and post records.
+- Confirm taxes, currencies, and ledgers are set up.
+
 ## Main routes in the app
 
 | Route | Purpose |
@@ -23,6 +30,16 @@ The Sales module supports customer-facing commercial workflows.
 | `return` | Record a customer return |
 | `credit-memo` | Issue a credit memo |
 | `debit-credit-note` | Record a debit or credit note |
+
+## Related pages
+
+- [Master Data](master-data.md)
+- [Opportunity](sales/opportunity.md)
+- [Estimate](sales/estimate.md)
+- [Order](sales/order.md)
+- [Invoice](sales/invoice.md)
+- [Customer Receipt](payment/customer-receipt.md)
+- [Sales Reports](../reports/sales-reports.md)
 
 ## Opportunity
 

@@ -3,6 +3,13 @@
 This page covers the vendor payment flow.
 Use it when Bizak pays a supplier.
 
+## Before you start
+
+- Confirm the vendor bill or allocation is ready.
+- Confirm the payment account is correct.
+- Confirm the user can post payments.
+- Confirm currency and bank details if they apply.
+
 ![Vendor payment screen](../../assets/images/workflows/payment/vendor-payment-create.png)
 
 !!! note "Keep the bill trail clear"
@@ -32,3 +39,10 @@ Use it when Bizak pays a supplier.
 
 The accounts team pays a vendor after a bill is approved.
 The payment records the method, the amount, and the related bill allocations.
+
+## Related pages
+
+- [Payment Overview](../payment.md)
+- [Enter Bill](../procurement/enter-bill.md)
+- [Bank](../bank.md)
+- [Account Reports](../../reports/account-reports.md)

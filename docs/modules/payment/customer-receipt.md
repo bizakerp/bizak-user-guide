@@ -3,6 +3,13 @@
 This page covers the customer receipt flow.
 Use it when the customer pays an open invoice.
 
+## Before you start
+
+- Confirm the invoice exists.
+- Confirm the customer account is correct.
+- Confirm the deposit account or payment method is ready.
+- Confirm withholding tax rules if they apply.
+
 ![Customer receipt screen](../../assets/images/workflows/payment/customer-payment.png)
 
 !!! note "Receipt first, then allocation"
@@ -22,6 +29,13 @@ Use it when the customer pays an open invoice.
 | `wh_tax_amount` | Withholding tax amount |
 
 The receipt screen also uses payment mode, deposit account, total amount received, and unallocated amount.
+
+## Related pages
+
+- [Payment Overview](../payment.md)
+- [Sales Invoice](../sales/invoice.md)
+- [Vendor Payment](vendor-payment.md)
+- [Account Reports](../../reports/account-reports.md)
 
 ## Example
 

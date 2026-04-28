@@ -2,6 +2,13 @@
 
 This section collects the pages users usually open when they need quick answers.
 
+## Before you start
+
+- Check the guided journey for your role.
+- Check the glossary when the business term is unclear.
+- Check the field reference when a label is unclear.
+- Check troubleshooting when the screen is blocked.
+
 ## Quick links
 
 <div class="grid cards landing-grid" markdown>
@@ -43,3 +50,11 @@ This section collects the pages users usually open when they need quick answers.
 Start with FAQ or troubleshooting when something is blocked.
 Use the glossary when the business term is unclear.
 Use the field reference when a field label is unclear.
+
+## Related pages
+
+- [Glossary](glossary.md)
+- [Field Reference](field-reference.md)
+- [FAQs](faqs.md)
+- [Troubleshooting](troubleshooting.md)
+- [Release Notes](release-notes.md)
