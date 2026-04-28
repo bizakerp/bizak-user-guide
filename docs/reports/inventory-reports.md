@@ -13,6 +13,14 @@ Inventory reports help users track stock quantity and valuation.
 - stock ledger
 - reorder report
 
+## What these reports answer
+
+- How much stock do we have?
+- Where is the stock moving?
+- What stock value sits in the books?
+- Which items are ageing?
+- Which items need reorder?
+
 ## Real report names in the app
 
 | Report | Purpose |
@@ -34,3 +42,9 @@ Inventory reports help users track stock quantity and valuation.
 | `inventory-aging` | Inventory ageing |
 | `adjustment` | Inventory adjustment report |
 | `reorder-report` | Reorder report |
+
+## Notes
+
+Some routes show a summary view.
+Some routes show a detail view.
+That gives the user both fast review and drilldown options.

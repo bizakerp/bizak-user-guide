@@ -27,3 +27,9 @@ The opportunity flow keeps the customer record, stage, probability, and follow-u
 ## Example
 
 A support issue can be logged, categorized, followed through, and later referenced by the support team or sales team.
+
+## Detailed pages
+
+- [Support Category](crm/support-category.md)
+- [User Support](crm/user-support.md)
+- [Error Log](crm/error-log.md)

@@ -25,6 +25,24 @@ The POS module supports point-of-sale operations for retail or counter-based sel
 | `loyalty-point` | Configure loyalty points |
 | `loyalty-reward` | Manage rewards |
 
+## Detailed pages
+
+- [POS Setup](pos/setup.md)
+- [POS System](pos/system.md)
+- [POS System 2](pos/system-2.md)
+- [Grid POS](pos/grid-system.md)
+- [Grid POS 2](pos/grid-system-2.md)
+- [Payment Screen](pos/payment.md)
+- [Counter](pos/counter.md)
+- [Session](pos/session.md)
+- [Shift](pos/shift.md)
+- [Table](pos/table.md)
+- [Order Type](pos/order-type.md)
+- [KOT List](pos/kot.md)
+- [Modifier Groups and Modifiers](pos/modifier.md)
+- [Loyalty Point Setup](pos/loyalty-point.md)
+- [Loyalty Reward](pos/loyalty-reward.md)
+
 ## What POS supports
 
 - counter-based selling

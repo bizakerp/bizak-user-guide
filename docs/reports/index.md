@@ -12,6 +12,16 @@ Bizak reporting is organized by subject area.
 - IRD and tax reports
 - dynamic reports
 
+## Detailed pages
+
+- [Account Reports](account-reports.md)
+- [Sales Reports](sales-reports.md)
+- [Inventory Reports](inventory-reports.md)
+- [Procurement Reports](procurement-reports.md)
+- [Dynamic Reports](dynamic.md)
+- [IRD Reports](ird.md)
+- [Other Reports](other-reports.md)
+
 ## How users should read reports
 
 1. Choose the report family

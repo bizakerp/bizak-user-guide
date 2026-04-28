@@ -16,6 +16,16 @@ Account reports show the financial result of posted transactions.
 - ageing reports
 - employee ledger
 
+## What to use them for
+
+- Use ledgers when you need transaction history.
+- Use trial balance when you need debit and credit totals.
+- Use the balance sheet when you need financial position.
+- Use profit and loss when you need performance.
+- Use cash flow when you need cash movement.
+- Use ageing when you need overdue balances.
+- Use budget vs actual when you need plan versus result.
+
 ## What these reports help with
 
 - reconciliation
@@ -43,3 +53,9 @@ Account reports show the financial result of posted transactions.
 | `customer-ageing` | Customer ageing |
 | `vendor-ageing` | Vendor ageing |
 | `employee-ledger` | Employee ledger view |
+
+## Notes
+
+Some reports have alternate views.
+For example, trial balance has tree and expanded tree screens.
+Balance sheet and profit and loss also use parameterized routes in the app.

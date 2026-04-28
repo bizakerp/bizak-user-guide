@@ -104,9 +104,41 @@ nav:
           - Check: modules/bank/check.md
           - Make Deposit: modules/bank/make-deposit.md
           - Transfer Fund: modules/bank/transfer-fund.md
-      - POS: modules/pos.md
-      - CRM: modules/crm.md
-      - Field Operations: modules/sfm.md
+      - POS:
+          - POS Overview: modules/pos.md
+          - Setup: modules/pos/setup.md
+          - POS System: modules/pos/system.md
+          - POS System 2: modules/pos/system-2.md
+          - Grid POS: modules/pos/grid-system.md
+          - Grid POS 2: modules/pos/grid-system-2.md
+          - Payment Screen: modules/pos/payment.md
+          - Counter: modules/pos/counter.md
+          - Session: modules/pos/session.md
+          - Shift: modules/pos/shift.md
+          - Table: modules/pos/table.md
+          - Order Type: modules/pos/order-type.md
+          - KOT List: modules/pos/kot.md
+          - Modifier Groups: modules/pos/modifier.md
+          - Loyalty Point Setup: modules/pos/loyalty-point.md
+          - Loyalty Reward: modules/pos/loyalty-reward.md
+      - CRM:
+          - CRM Overview: modules/crm.md
+          - Support Category: modules/crm/support-category.md
+          - User Support: modules/crm/user-support.md
+          - Error Log: modules/crm/error-log.md
+      - Field Operations:
+          - Field Operations Overview: modules/sfm.md
+          - Route Plan: modules/sfm/route-plan.md
+          - Daily Visit: modules/sfm/daily-visit.md
+          - Sales Person Location: modules/sfm/sales-person-location.md
+          - Salesman Route Map: modules/sfm/salesman-route-map.md
+          - Party Route Map: modules/sfm/party-route-map.md
+          - Customer Visit Summary: modules/sfm/customer-visit-summary.md
+          - Customer Visit Detail: modules/sfm/customer-visit-detail.md
+          - Customer In Out: modules/sfm/customer-in-out.md
+          - Total Visits By Sales Rep: modules/sfm/total-customer-visit-by-sales-rep.md
+          - Visit Summary By Sales Rep: modules/sfm/total-customer-visit-by-sales-rep-summary.md
+          - Field Reports: modules/sfm/report.md
       - Notifications: modules/notifications.md
       - Survey: modules/survey.md
   - Reporting:
@@ -115,6 +147,8 @@ nav:
       - Sales Reports: reports/sales-reports.md
       - Inventory Reports: reports/inventory-reports.md
       - Procurement Reports: reports/procurement-reports.md
+      - Dynamic Reports: reports/dynamic.md
+      - IRD Reports: reports/ird.md
       - Other Reports: reports/other-reports.md
   - Admin:
       - Administration Overview: admin/index.md

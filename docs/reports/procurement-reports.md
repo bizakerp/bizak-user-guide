@@ -8,6 +8,12 @@ Procurement reports support purchasing control and supplier monitoring.
 - vendor outstanding reports
 - purchase register
 
+## What these reports answer
+
+- What purchase orders were issued?
+- Which vendor balances are still open?
+- Which orders need follow-up?
+
 ## Real report names in the app
 
 | Report | Purpose |
@@ -16,3 +22,7 @@ Procurement reports support purchasing control and supplier monitoring.
 | `purchase-order-history-detail` | Purchase order history detail |
 | `vendor-outstanding-report` | Outstanding vendor balances |
 | `vendor-outstanding-detail` | Vendor outstanding detail |
+
+## Notes
+
+Use the detail pages when a buyer or accountant needs the line-level trail.
