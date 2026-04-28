@@ -63,7 +63,7 @@ The invoice details include item, unit, quantity, rate, discount, tax, and amoun
 
 - [Sales Overview](../sales.md)
 - [Order](order.md)
-- [Customer Receipt](../../payment/customer-receipt.md)
+- [Customer Receipt](../payment/customer-receipt.md)
 - [Sales Reports](../../reports/sales-reports.md)
 
 ## Example

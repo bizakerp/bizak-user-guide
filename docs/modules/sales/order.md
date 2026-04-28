@@ -45,7 +45,7 @@ The order also stores item details, notes, files, tasks, events, messages, and r
 - [Sales Overview](../sales.md)
 - [Estimate](estimate.md)
 - [Invoice](invoice.md)
-- [Customer Receipt](../../payment/customer-receipt.md)
+- [Customer Receipt](../payment/customer-receipt.md)
 
 ## Example
 

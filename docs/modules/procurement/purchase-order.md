@@ -55,7 +55,7 @@ Use it when the company is ready to buy from a vendor.
 - [Supplier Quotation](supplier-quotation.md)
 - [Item Receipt](item-receipt.md)
 - [Enter Bill](enter-bill.md)
-- [Vendor Payment](../../payment/vendor-payment.md)
+- [Vendor Payment](../payment/vendor-payment.md)
 
 ## Example
 

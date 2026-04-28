@@ -69,5 +69,5 @@ If the bill needs review, the approval status keeps the process visible.
 - [Procurement Overview](../procurement.md)
 - [Purchase Order](purchase-order.md)
 - [Item Receipt](item-receipt.md)
-- [Vendor Payment](../../payment/vendor-payment.md)
+- [Vendor Payment](../payment/vendor-payment.md)
 - [Procurement Reports](../../reports/procurement-reports.md)
