@@ -7,6 +7,8 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
+  logo: assets/branding/logo-light.png
+  favicon: assets/branding/favicon.png
   font:
     text: Inter
     code: Roboto Mono
@@ -16,6 +18,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+    - navigation.top
     - toc.follow
     - search.highlight
     - search.share
@@ -36,6 +39,9 @@ theme:
 
 plugins:
   - search
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -157,6 +163,7 @@ nav:
       - File Cabinet: admin/file-cabinet.md
       - Customization: admin/customization.md
   - Help:
+      - Help Overview: help/index.md
       - Glossary: help/glossary.md
       - FAQs: help/faqs.md
       - Troubleshooting: help/troubleshooting.md

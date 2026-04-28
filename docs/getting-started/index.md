@@ -1,19 +1,21 @@
 # Welcome
 
-This section introduces the Bizak user experience and the basic concepts every user should know before using the system.
+This section gives you the basics you need before day-to-day work starts.
 
 ## What Bizak supports
 
 Bizak brings together the main operating areas of a business:
 
-- customer-facing sales workflows
-- purchasing and supplier management
-- inventory tracking
-- accounting and financial posting
-- payment and banking actions
-- POS operations
-- CRM and field workflows
-- reporting and audit visibility
+- sales
+- purchasing
+- inventory
+- accounting
+- payments
+- banking
+- POS
+- CRM
+- field work
+- reporting
 
 ## Who this guide is for
 
@@ -24,27 +26,35 @@ Bizak brings together the main operating areas of a business:
 - inventory managers
 - POS operators
 - administrators
-- support and implementation teams
+- support teams
+
+## How to use this section
+
+Start here if you are new.
+Then move to setup.
+Then move to your daily workflow module.
 
 ## What to expect
 
-Each page in this portal will explain:
+Each page explains:
 
 - what the screen is for
 - how to reach it
 - what each field means
-- what validation or business rule applies
-- what gets created or updated when you save
-- how the action affects reports and accounting
+- what rule applies
+- what gets created or updated
+- how the action affects reports
 
-## Example workflow focus
+## Quick start path
 
-The best way to learn Bizak is by following a real job story:
-
-1. Set up a company and currency
+1. Set up the company and currency
 2. Create users and roles
 3. Create items, units, and ledgers
 4. Record sales and purchases
 5. Receive or make payments
 6. Review account and inventory reports
 
+## Next page
+
+[First Login](first-login.md){ .md-button .md-button--primary }
+[Navigation Overview](navigation.md){ .md-button }

@@ -13,23 +13,51 @@ Bizak reporting is organized by subject area.
 
 ## Report families
 
-- account reports
-- sales reports
-- inventory reports
-- procurement reports
-- other reports
-- IRD and tax reports
-- dynamic reports
+<div class="grid cards landing-grid" markdown>
 
-## Detailed pages
+-   :material-finance: **Account Reports**
 
-- [Account Reports](account-reports.md)
-- [Sales Reports](sales-reports.md)
-- [Inventory Reports](inventory-reports.md)
-- [Procurement Reports](procurement-reports.md)
-- [Dynamic Reports](dynamic.md)
-- [IRD Reports](ird.md)
-- [Other Reports](other-reports.md)
+    Read balances, ledgers, ageing, and statements.
+
+    [Open page](account-reports.md)
+
+-   :material-cart-outline: **Sales Reports**
+
+    Review invoices, returns, and customer outstanding.
+
+    [Open page](sales-reports.md)
+
+-   :material-warehouse: **Inventory Reports**
+
+    Track stock, valuation, and movement.
+
+    [Open page](inventory-reports.md)
+
+-   :material-cart-outline: **Procurement Reports**
+
+    Review purchase history and vendor balances.
+
+    [Open page](procurement-reports.md)
+
+-   :material-file-chart-outline: **Dynamic Reports**
+
+    Open flexible, custom report views.
+
+    [Open page](dynamic.md)
+
+-   :material-shield-check-outline: **IRD Reports**
+
+    Use tax and compliance reports.
+
+    [Open page](ird.md)
+
+-   :material-file-document-outline: **Other Reports**
+
+    Review user activity and supporting views.
+
+    [Open page](other-reports.md)
+
+</div>
 
 ## How users should read reports
 

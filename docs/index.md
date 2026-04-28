@@ -1,42 +1,68 @@
 # Bizak User Guide
 
-Bizak is an ERP platform for managing sales, procurement, inventory, finance, payments, banking, point of sale, CRM, field activity, reporting, and administrative setup in one place.
+<div class="hero-shell" markdown="1">
 
-This portal is designed to help users understand:
+Bizak is an ERP platform for sales, procurement, inventory, finance, payments, banking, POS, CRM, field work, reporting, and admin setup.
 
-- what each module does
-- where to find it in the application
-- how the core forms behave
-- which fields and rules matter
-- what happens after save or submit
-- how each workflow connects to accounting and reporting
+<div class="hero-meta">
+<span class="hero-pill">Workflow-first</span>
+<span class="hero-pill">Code-backed</span>
+<span class="hero-pill">Short sentences</span>
+<span class="hero-pill">Enterprise guide</span>
+</div>
+
+[Get started](getting-started/index.md){ .md-button .md-button--primary }
+[Browse modules](modules/index.md){ .md-button }
+[Open reports](reports/index.md){ .md-button }
+
+</div>
 
 ## What this portal is for
 
-This portal is the main learning site for Bizak users.
-It should help a new user start safely.
-It should also help an experienced user find a rule or field quickly.
+This portal helps a new user start safely.
+It also helps an experienced user find a rule, field, or report quickly.
 
-## How to use this guide
+## What you will find
 
-Use the left navigation to move by topic:
+<div class="grid cards landing-grid" markdown>
 
-- **Getting Started** for first login, navigation, and access
-- **Core Setup** for company and account configuration
-- **Modules** for daily operational work
-- **Reporting** for ledgers, statements, and summaries
-- **Admin** for roles, workflow, file cabinet, and customization
-- **Help** for FAQs, glossary terms, and troubleshooting
+-   :material-play-circle-outline: **Getting Started**
 
-## What this guide includes
+    Learn login, navigation, and access.
 
-- task-based walkthroughs
-- field explanations
-- business rules and dependencies
-- example scenarios
-- downstream accounting effects
-- report references
-- common mistakes and how to avoid them
+    [Open section](getting-started/index.md)
+
+-   :material-cog-outline: **Core Setup**
+
+    Set up the company, ledgers, and preferences.
+
+    [Open section](setup/index.md)
+
+-   :material-view-module: **Modules**
+
+    Follow the daily sales, buying, stock, and POS flows.
+
+    [Open section](modules/index.md)
+
+-   :material-chart-box-outline: **Reporting**
+
+    Read account, sales, inventory, and tax reports.
+
+    [Open section](reports/index.md)
+
+-   :material-shield-account-outline: **Admin**
+
+    Manage users, workflow, files, and customization.
+
+    [Open section](admin/index.md)
+
+-   :material-help-circle-outline: **Help**
+
+    Find glossary terms, FAQs, and troubleshooting tips.
+
+    [Open section](help/glossary.md)
+
+</div>
 
 ## Suggested reading order
 
@@ -48,11 +74,9 @@ Use the left navigation to move by topic:
 6. Reports
 7. Admin and help pages
 
-## Writing style
+## How this guide is written
 
-This guide uses short sentences.
-It uses the same words that appear in the application where possible.
-It explains the business effect of each save action.
-It avoids guessing when the code does not confirm behavior.
-
-> This portal is intentionally structured around workflows, not just menu labels. That makes it easier for non-technical users to learn Bizak in the same way they actually use it.
+- Short sentences.
+- Same words as the app where possible.
+- Clear business effect after save.
+- No guesses when the code does not confirm behavior.
