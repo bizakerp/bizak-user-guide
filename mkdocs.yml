@@ -176,6 +176,7 @@ nav:
   - Help:
       - Help Overview: help/index.md
       - Glossary: help/glossary.md
+      - Field Reference: help/field-reference.md
       - FAQs: help/faqs.md
       - Troubleshooting: help/troubleshooting.md
       - Release Notes: help/release-notes.md
