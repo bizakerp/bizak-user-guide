@@ -28,7 +28,7 @@ It also helps an experienced user find a rule, field, or report quickly.
 
 -   :material-play-circle-outline: **Getting Started**
 
-    Learn login, navigation, and access.
+    Learn login, navigation, access, and guided journeys.
 
     [Open section](getting-started/index.md)
 

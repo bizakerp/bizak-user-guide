@@ -34,6 +34,8 @@ Start here if you are new.
 Then move to setup.
 Then move to your daily workflow module.
 
+If you already know your role, use the guided journey pages below.
+
 ## What to expect
 
 Each page explains:
@@ -49,10 +51,21 @@ Each page explains:
 
 1. Set up the company and currency
 2. Create users and roles
-3. Create items, units, and ledgers
-4. Record sales and purchases
-5. Receive or make payments
-6. Review account and inventory reports
+3. Choose your guided journey
+4. Create items, units, and ledgers
+5. Record sales and purchases
+6. Receive or make payments
+7. Review account and inventory reports
+
+## Guided journeys
+
+- [New user](journeys/new-user.md)
+- [Sales user](journeys/sales-user.md)
+- [Procurement user](journeys/procurement-user.md)
+- [Inventory user](journeys/inventory-user.md)
+- [Finance user](journeys/finance-user.md)
+- [POS user](journeys/pos-user.md)
+- [Admin user](journeys/admin-user.md)
 
 ## Next page
 

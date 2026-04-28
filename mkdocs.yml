@@ -64,6 +64,15 @@ nav:
       - First Login: getting-started/first-login.md
       - Navigation Overview: getting-started/navigation.md
       - Roles and Access: getting-started/roles-and-access.md
+      - Guided Journeys:
+          - Journey Overview: getting-started/journeys/index.md
+          - New User: getting-started/journeys/new-user.md
+          - Sales User: getting-started/journeys/sales-user.md
+          - Procurement User: getting-started/journeys/procurement-user.md
+          - Inventory User: getting-started/journeys/inventory-user.md
+          - Finance User: getting-started/journeys/finance-user.md
+          - POS User: getting-started/journeys/pos-user.md
+          - Admin User: getting-started/journeys/admin-user.md
   - Core Setup:
       - Setup Overview: setup/index.md
       - Company Setup: setup/company.md
