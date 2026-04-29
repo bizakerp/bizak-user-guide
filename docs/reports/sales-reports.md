@@ -17,6 +17,11 @@ Sales reports help teams understand revenue and customer activity.
     This kind of screen is useful when you want a quick list first.
     Use the detail report when you need a drilldown.
 
+!!! tip "What to notice in sales reports"
+    The invoice list gives a fast view of posted sales.
+    Summary pages help before you open the detailed trail.
+    Customer outstanding reports help collections and follow-up.
+
 ## Common examples
 
 - invoice reports

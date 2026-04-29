@@ -11,6 +11,12 @@ Use it before selling begins.
 - It checks whether a session is already active.
 - It sends the user to the POS system after a successful start.
 
+## What to notice on the session screen
+
+- The counter and shift connect the session to the right workstation.
+- Opening cash is important for cash tracking.
+- The session list helps managers see active and past sessions.
+
 ## What it tracks
 
 | Field | Meaning |
@@ -25,4 +31,3 @@ Use it before selling begins.
 
 The cashier opens a new session at the start of the day.
 The system records the counter, shift, and opening cash before sales begin.
-

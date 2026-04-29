@@ -59,6 +59,13 @@ Use it when the sale is ready to post and collect.
 
 The invoice details include item, unit, quantity, rate, discount, tax, and amount.
 
+## What to notice on the invoice screen
+
+- The customer, due date, and approval state are the first fields to check.
+- POS invoices carry the counter and session fields.
+- Bank and cheque fields appear when the invoice uses those payment paths.
+- The line grid drives the amount posted to reports.
+
 ## Related pages
 
 - [Sales Overview](../sales.md)

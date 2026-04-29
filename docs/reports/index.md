@@ -11,6 +11,11 @@ Bizak reporting is organized by subject area.
     The table or summary appears below the filters.
     Detail pages usually add drilldown rows.
 
+!!! tip "What to notice in report pages"
+    Filters sit above the table so users can narrow results first.
+    The report body changes based on the family you open.
+    Summary views help first, and detail views help when you need a trail.
+
 ## Before you start
 
 - Confirm the related setup and posting data exists.

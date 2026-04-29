@@ -40,6 +40,13 @@ Use it when the customer confirms the sale.
 
 The order also stores item details, notes, files, tasks, events, messages, and relationships.
 
+## What to notice on the order screen
+
+- The customer and dates sit in the header.
+- The order lines sit below the tabs.
+- The booking amount and delivery date help the team track commitment.
+- The related record tools keep the sales trail connected.
+
 ## Related pages
 
 - [Sales Overview](../sales.md)

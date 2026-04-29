@@ -11,6 +11,12 @@ The Sales module supports customer-facing commercial workflows.
     The item entry area sits below the header.
     Save happens from the top right.
 
+!!! tip "What to notice in this screen"
+    The customer and date fields are in the header area.
+    The item lines sit below the tabs.
+    The right side actions stay in the top bar.
+    This is the main order pattern used in the sales flow.
+
 ## Before you start
 
 - Confirm the customer record exists.

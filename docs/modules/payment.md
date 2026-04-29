@@ -17,11 +17,21 @@ The Payment module handles customer and vendor money movement.
     Customer receipt is the screen to use when a customer pays an invoice.
     The grid below shows which invoices get the payment.
 
+!!! tip "What to notice on the receipt screen"
+    The customer, date, and payment type are in the top section.
+    The invoice grid lets the cashier apply money to one or more invoices.
+    Any extra amount can stay unallocated as an advance.
+
 ![Vendor payment screen](../assets/images/workflows/payment/vendor-payment-create.png)
 
 !!! tip "Use vendor payment for money out"
     Vendor payment records what the business pays to suppliers.
     Keep the bill allocation and bank details aligned with the payment.
+
+!!! note "What to notice on the vendor payment screen"
+    The vendor and payment date appear in the header.
+    The bill allocation table shows what is being settled.
+    Bank and cheque details matter when the payment is not cash.
 
 ## Main routes in the app
 

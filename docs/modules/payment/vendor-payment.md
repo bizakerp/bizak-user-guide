@@ -35,6 +35,13 @@ Use it when Bizak pays a supplier.
 | `account` | Account label |
 | `details` | Bill allocation lines |
 
+## What to notice on the vendor payment screen
+
+- The vendor and payment date drive the record.
+- The bill allocation lines show what is being settled.
+- The ledger and bank fields help with reconciliation.
+- Cheque fields only matter when the payment uses a cheque path.
+
 ## Example
 
 The accounts team pays a vendor after a bill is approved.

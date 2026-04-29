@@ -17,6 +17,11 @@ Inventory reports help users track stock quantity and valuation.
     Start with the item, location, or date filter.
     Then review quantity, movement, and valuation in the table below.
 
+!!! tip "What to notice in inventory reports"
+    Filters are the starting point for stock review.
+    On-hand and available quantities are usually read together.
+    Movement and valuation reports answer different questions.
+
 ## Common examples
 
 - inventory valuation

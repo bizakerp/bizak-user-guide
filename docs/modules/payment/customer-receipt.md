@@ -30,6 +30,13 @@ Use it when the customer pays an open invoice.
 
 The receipt screen also uses payment mode, deposit account, total amount received, and unallocated amount.
 
+## What to notice on the receipt screen
+
+- The customer and payment date are the first fields to verify.
+- The invoice grid shows what is being settled.
+- Auto apply helps when one payment covers multiple invoices.
+- The deposit account tells Bizak where the money goes.
+
 ## Related pages
 
 - [Payment Overview](../payment.md)

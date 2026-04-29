@@ -11,6 +11,17 @@ The POS module supports point-of-sale operations for retail or counter-based sel
     Set the defaults first.
     Then open a session before you sell.
 
+!!! tip "What this visual means"
+    The counter is the anchor for POS activity.
+    Sessions and shifts sit behind the daily sales flow.
+    The illustration is a guide to the counter-first setup, not a live POS screen.
+
+![POS lock illustration](../assets/images/workflows/pos/counter-lock.png)
+
+!!! note "Lock state matters"
+    The lock illustration reminds the user that POS access depends on setup and session state.
+    Cashiers should not start sales until the session is ready.
+
 ## Before you start
 
 - Confirm the POS setup exists.

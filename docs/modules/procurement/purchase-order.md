@@ -49,6 +49,13 @@ Use it when the company is ready to buy from a vendor.
 | `user_note_details` | Notes |
 | `relationship_details` | Related contacts |
 
+## What to notice on the purchase order screen
+
+- The vendor and order date are at the top.
+- The summary panel shows totals on the right.
+- The item grid sits under the tabs.
+- The approval state tells you whether the order is ready to move on.
+
 ## Related pages
 
 - [Procurement Overview](../procurement.md)

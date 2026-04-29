@@ -58,6 +58,13 @@ Use it when the vendor invoice arrives.
 | `landed_cost_details` | Landed cost lines |
 | `lc_detail` | LC detail lines |
 
+## What to notice on the bill screen
+
+- The vendor, bill date, and due date are the first checks.
+- The receipt reference should match the goods received step.
+- Payment hold and approval fields can block posting.
+- Landed cost lines matter when freight or import costs are part of the purchase.
+
 ## Example
 
 A vendor invoice arrives after goods are received.

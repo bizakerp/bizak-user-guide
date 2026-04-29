@@ -15,8 +15,13 @@ Use it to create or update a counter record.
 
 The route supports create, list, and update flows.
 
+## What to notice on the counter screen
+
+- The counter name should match the checkout point users know.
+- Department and organisation values help with reporting.
+- A clear description helps when there are multiple counters.
+
 ## Example
 
 A store creates one counter for each checkout desk.
 The counter name helps staff and reports identify the right sales point.
-

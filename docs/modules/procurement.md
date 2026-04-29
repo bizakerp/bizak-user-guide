@@ -11,11 +11,21 @@ The Procurement module supports supplier and purchasing workflows.
     The summary panel appears on the right.
     The item grid sits below the tabs.
 
+!!! tip "What to notice in this screen"
+    The vendor, date, and approval fields stay near the top.
+    The summary panel shows totals before you scroll.
+    The tab row groups item, communication, contact, and billing details.
+
 ![Vendor bill screen](../assets/images/workflows/procurement/enter-bill-create.png)
 
 !!! tip "Bill entry"
     Enter bill follows the same pattern.
     Keep the vendor, date, and receipt reference aligned with the purchase order.
+
+!!! note "What changes on the bill screen"
+    The bill uses the same header style as purchase order.
+    The receipt reference helps match the goods received step.
+    Landed cost and account lines appear when they are part of the purchase.
 
 ## Before you start
 

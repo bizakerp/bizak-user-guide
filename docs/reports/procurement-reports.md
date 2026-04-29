@@ -17,6 +17,11 @@ Procurement reports support purchasing control and supplier monitoring.
     These pages help buyers review what was ordered, received, and still owed.
     They are useful during vendor review and period close.
 
+!!! tip "What to notice in procurement reports"
+    Purchase history shows the order trail.
+    Vendor outstanding reports help with payment follow-up.
+    A receipt list is useful when you need to confirm what arrived.
+
 ## Common examples
 
 - purchase order history

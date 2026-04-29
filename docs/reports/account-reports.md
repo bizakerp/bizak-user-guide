@@ -17,6 +17,11 @@ Account reports show the financial result of posted transactions.
     These screens show overdue balances by time bucket.
     They help the team see what is due now and what is overdue.
 
+!!! tip "What to notice in account reports"
+    The date range is the first thing to check.
+    The report family changes the level of detail.
+    Ageing reports are useful when you need overdue balances fast.
+
 ## Common reports
 
 - trial balance

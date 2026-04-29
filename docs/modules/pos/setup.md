@@ -14,6 +14,12 @@ Use it before the first sale in a terminal or store.
 - It stores the default layout and tax settings.
 - It checks for an active session before sending the user to POS.
 
+## What to notice on the setup screen
+
+- The defaults decide what the cashier sees first.
+- The warehouse and payment method control the daily sale path.
+- A missing session pushes the user to session start.
+
 If all required defaults exist, the app can go straight to the POS screen.
 If no session is open, it sends the user to session start first.
 
